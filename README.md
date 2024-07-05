@@ -1,4 +1,4 @@
-## Hola, mi nombre el León Ginel 👋
+## Hola, mi nombre es León Ginel 👋
 
 <!--
 **LeonGinel/LeonGinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
