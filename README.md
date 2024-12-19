@@ -30,6 +30,7 @@ Mi sueño es desarrollarme en la industria de los videojuegos, aplicando mis con
 
 ### 🛠️ Habilidades y Herramientas
 - **Lenguajes**:
+
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
