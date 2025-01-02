@@ -44,6 +44,6 @@ Mi sueño es desarrollarme en la industria de los videojuegos, aplicando mis con
 ### 🌱 Más Sobre Mí
 - 🌍 Vivo en: Sevilla, España
 - 🎮 Hobbies: Videojuegos.
-- 📝 Contacto: [LinkedIn](www.linkedin.com/in/leonginelp) | [Email](leonginel@gmail.com)
+- 📝 Contacto: [LinkedIn](www.linkedin.com/in/leonginel) | [Email](leonginel@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😄
