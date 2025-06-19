@@ -21,6 +21,7 @@ Mi sueño es desarrollarme en la industria de los videojuegos, aplicando mis con
 ### 🚀 Proyectos Destacados
 | Proyecto       | Descripción                           | Tecnologías           |
 |----------------|---------------------------------------|-----------------------|
+| [The_GAME_GATE](https://github.com/LeonGinel/The_GAME_GATE) | Plataforma web de recomendación y valoración de videojuegos, con sistema de búsqueda avanzada, perfiles de usuario y sugerencias dinámicas.     | HTML, CSS, JS, PHP, MySQL         |
 | [Demo-Rol-Interface](https://github.com/LeonGinel/Demo-Rol-Interface) | Una pequeña demo de una Interfaz de usuario de un app (GUI) desarrollada con Java (Buena lógica de programación y POO) y Swing (GUI).     | JAVA, Swing         |
 | [BlogDeCafe](https://github.com/LeonGinel/BlogDeCafe) | Un diseño de interfaz simple para un blog relacionado con cursos y preparación de café 100% responsivo. desarrollado con HTML y CSS puro.     | HTML, CSS         |
 | [Tienda-Online-Interface](https://github.com/LeonGinel/Tienda-Online-Interface) | Pequeño proyecto de interfaz para una tienda de ropa genérica. Desarrollado con HTML y CSS puro.     | HTML, CSS         |
