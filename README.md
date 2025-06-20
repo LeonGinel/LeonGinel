@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy León Ginel
 
-🌟 Bienvenido a mi Perfil de GitHub
-¡Hola! Soy un Técnico en Desarrollo de Aplicaciones Web (DAW) en formación, apasionado por la tecnología y con un gran interés en seguir aprendiendo y creciendo como desarrollador.
+🌟 ¡Hola! Soy un Técnico en Desarrollo de Aplicaciones Web (DAW) en formación, apasionado por la tecnología y con un gran interés en seguir aprendiendo y creciendo como desarrollador.
 
 💻 Actualmente me especializo en:
 
