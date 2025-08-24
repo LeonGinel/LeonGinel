@@ -1,51 +1,51 @@
-# 👋 ¡Hola! Soy León Ginel
+# León Ginel – Desarrollador Frontend/Full-Stack
 
-🌟 ¡Hola! Soy un Técnico en Desarrollo de Aplicaciones Web (DAW) en formación, apasionado por la tecnología y con un gran interés en seguir aprendiendo y creciendo como desarrollador.
+![Banner](https://img.shields.io/badge/León_Ginel-Desarrollador_Frontend%2FFull-Stack-blue?style=for-the-badge)
 
-💻 Actualmente me especializo en:
-
-🚀 Desarrollo Full-Stack con lenguajes y tecnologías como:
-- **Backend** - C# | Java | PHP
-- **Frontend** - HTML | CSS | JavaScript
-- **Bases de Datos** - SQL | Oracle
-- **Control de versiones** - GIT | GitHub
-
-🛠️ Construcción de proyectos que integran múltiples capas de desarrollo.
-
-🎮 Mi objetivo:
-Mi sueño es desarrollarme en la industria de los videojuegos, aplicando mis conocimientos en programación para crear experiencias inmersivas y dinámicas. Aunque aún no tengo experiencia profesional, estoy en constante formación para alcanzar mis metas.
+Apasionado por desarrollar soluciones web que sean eficientes, escalables y fáciles de mantener.  
+Me motiva crear experiencias digitales que aporten valor real a los usuarios y a los equipos de trabajo, buscando siempre mejorar la calidad del producto y el proceso de desarrollo.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🌟 **Lenguajes y Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
+### 🌟 **Backend y Herramientas**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+### 🌟 **Otros**
+Java, C#, Node.js, Vite, SQL
+
+---
+
+## 🚀 Proyectos Destacados
+
 | Proyecto       | Descripción                           | Tecnologías           |
-|----------------|---------------------------------------|-----------------------|
-| [The_GAME_GATE](https://github.com/LeonGinel/The_GAME_GATE) | Plataforma web de recomendación y valoración de videojuegos, con sistema de búsqueda avanzada, perfiles de usuario y sugerencias dinámicas.     | HTML, CSS, JS, PHP, MySQL         |
-| [Demo-Rol-Interface](https://github.com/LeonGinel/Demo-Rol-Interface) | Una pequeña demo de una Interfaz de usuario de un app (GUI) desarrollada con Java (Buena lógica de programación y POO) y Swing (GUI).     | JAVA, Swing         |
-| [BlogDeCafe](https://github.com/LeonGinel/BlogDeCafe) | Un diseño de interfaz simple para un blog relacionado con cursos y preparación de café 100% responsivo. desarrollado con HTML y CSS puro.     | HTML, CSS         |
-| [Tienda-Online-Interface](https://github.com/LeonGinel/Tienda-Online-Interface) | Pequeño proyecto de interfaz para una tienda de ropa genérica. Desarrollado con HTML y CSS puro.     | HTML, CSS         |
-| [FreelancerWeb](https://github.com/LeonGinel/BlogDeCafe) | Pequeña interfaz web con una estructura diseñada para una supuesta página personal como freelancer. La web es completamente responsive.     | HTML, CSS         |
+|----------------|---------------------------------------|---------------------|
+| [React Component Library](https://github.com/LeonGinel/react-biblioteca) | Biblioteca de componentes React + TypeScript, modular y escalable, ideal para proyectos frontend profesionales. | React, TypeScript, Vite, Node.js |
+| [The_GAME_GATE](https://github.com/LeonGinel/The_GAME_GATE) | Plataforma web de recomendación y valoración de videojuegos, con búsqueda avanzada y perfiles de usuario. | HTML, CSS, JS, PHP, MySQL |
+| [Demo-Rol-Interface](https://github.com/LeonGinel/Demo-Rol-Interface) | Demo de interfaz GUI en Java con Swing, mostrando buenas prácticas de POO. | Java, Swing |
+| [BlogDeCafe](https://github.com/LeonGinel/BlogDeCafe) | Diseño responsive de blog para cursos de café. | HTML, CSS |
+| [Tienda-Online-Interface](https://github.com/LeonGinel/Tienda-Online-Interface) | Interfaz de tienda de ropa genérica, responsive. | HTML, CSS |
+| [FreelancerWeb](https://github.com/LeonGinel/BlogDeCafe) | Web personal tipo freelancer, completamente responsive. | HTML, CSS |
 
 ---
 
-### 🛠️ Habilidades y Herramientas
-- **Lenguajes**:
+## 🎯 Objetivo Profesional
 
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![PrestaShop](https://img.shields.io/badge/PrestaShop-FF3366?style=for-the-badge&logo=prestashop&logoColor=white)
+Apasionado por desarrollar soluciones web que sean eficientes, escalables y fáciles de mantener.  
+Me motiva crear experiencias digitales que aporten valor real a los usuarios y a los equipos de trabajo, buscando siempre mejorar la calidad del producto y el proceso de desarrollo.
 
 ---
 
-### 🌱 Más Sobre Mí
-- 🌍 Vivo en: Sevilla, España
-- 🎮 Hobbies: Programación, Gimnasio y Videojuegos.
-- 📝 Contacto: [LinkedIn](www.linkedin.com/in/leonginel) | [Email](leonginel@gmail.com)
+## 🌱 Sobre Mí / Contacto
 
-¡Gracias por visitar mi perfil! 😄
+- 🌍 Ubicación: Sevilla, España  
+- 💼 Intereses profesionales: Desarrollo de aplicaciones web, experiencia de usuario, eficiencia y calidad en proyectos digitales  
+- 📝 Contacto: [LinkedIn](https://www.linkedin.com/in/leonginel) | [Email](mailto:leonginel@gmail.com)
