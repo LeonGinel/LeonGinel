@@ -32,7 +32,7 @@ Java, C#, Node.js, Vite, SQL
 
 | Proyecto       | Descripción                           | Tecnologías           |
 |----------------|---------------------------------------|---------------------|
-| [React Component Library](https://github.com/LeonGinel/react-biblioteca) | Biblioteca de componentes React + TypeScript, modular y escalable, ideal para proyectos frontend profesionales. | React, TypeScript, Vite, Node.js |
+| [React Component Library](https://github.com/LeonGinel/Biblioteca-REACT) | Biblioteca de componentes React + TypeScript, modular y escalable, ideal para proyectos frontend profesionales. | React, TypeScript, Vite, Node.js |
 | [The_GAME_GATE](https://github.com/LeonGinel/The_GAME_GATE) | Plataforma web de recomendación y valoración de videojuegos, con búsqueda avanzada y perfiles de usuario. | HTML, CSS, JS, PHP, MySQL |
 | [Demo-Rol-Interface](https://github.com/LeonGinel/Demo-Rol-Interface) | Demo de interfaz GUI en Java con Swing, mostrando buenas prácticas de POO. | Java, Swing |
 | [BlogDeCafe](https://github.com/LeonGinel/BlogDeCafe) | Diseño responsive de blog para cursos de café. | HTML, CSS |
