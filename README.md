@@ -35,6 +35,13 @@ Java, C#, Node.js, Vite, SQL
 | [Biblioteca-REACT](https://github.com/LeonGinel/Biblioteca-REACT) | Biblioteca de componentes React + TypeScript, modular y escalable, ideal para proyectos frontend profesionales. | React, TypeScript, Vite, Node.js |
 | [The_GAME_GATE](https://github.com/LeonGinel/The_GAME_GATE) | Plataforma web de recomendación y valoración de videojuegos, con búsqueda avanzada y perfiles de usuario. | HTML, CSS, JS, PHP, MySQL |
 | [Demo-Rol-Interface](https://github.com/LeonGinel/Demo-Rol-Interface) | Demo de interfaz GUI en Java con Swing, mostrando buenas prácticas de POO. | Java, Swing |
+
+---
+
+## 📚 Otros Proyectos (Prácticas de Aprendizaje)
+
+| Proyecto       | Descripción                           | Tecnologías           |
+|----------------|---------------------------------------|---------------------|
 | [BlogDeCafe](https://github.com/LeonGinel/BlogDeCafe) | Diseño responsive de blog para cursos de café. | HTML, CSS |
 | [Tienda-Online-Interface](https://github.com/LeonGinel/Tienda-Online-Interface) | Interfaz de tienda de ropa genérica, responsive. | HTML, CSS |
 | [FreelancerWeb](https://github.com/LeonGinel/BlogDeCafe) | Web personal tipo freelancer, completamente responsive. | HTML, CSS |
@@ -43,8 +50,8 @@ Java, C#, Node.js, Vite, SQL
 
 ## 🎯 Objetivo Profesional
 
-Apasionado por desarrollar soluciones web que sean eficientes, escalables y fáciles de mantener.  
-Me motiva crear experiencias digitales que aporten valor real a los usuarios y a los equipos de trabajo, buscando siempre mejorar la calidad del producto y el proceso de desarrollo.
+Mi meta es incorporarme a un equipo de desarrollo donde pueda aportar valor con mis conocimientos en frontend y backend,  
+seguir creciendo como profesional y contribuir a construir productos digitales escalables y de calidad.
 
 ---
 
