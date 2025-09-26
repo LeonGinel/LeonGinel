@@ -44,7 +44,7 @@ Java, C#, Node.js, Vite, SQL
 |----------------|---------------------------------------|---------------------|
 | [BlogDeCafe](https://github.com/LeonGinel/BlogDeCafe) | Diseño responsive de blog para cursos de café. | HTML, CSS |
 | [Tienda-Online-Interface](https://github.com/LeonGinel/Tienda-Online-Interface) | Interfaz de tienda de ropa genérica, responsive. | HTML, CSS |
-| [FreelancerWeb](https://github.com/LeonGinel/BlogDeCafe) | Web personal tipo freelancer, completamente responsive. | HTML, CSS |
+| [FreelancerWeb](https://github.com/LeonGinel/FreelancerWeb) | Web personal tipo freelancer, completamente responsive. | HTML, CSS |
 
 ---
 
